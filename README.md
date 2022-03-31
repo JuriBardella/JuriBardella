@@ -1,4 +1,4 @@
-<h1 align="center">Ciao amico!, I'm Juri for friends 'JB'</h1>
+<h1 align="center">Ciao amico, I'm Juri for friends 'JB'</h1>
 <h3 align="center">Developer from Italy</h3>
 
 <h6 align="center">Bye and see you inside the code!</h6>
