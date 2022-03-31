@@ -1,7 +1,7 @@
 <h1 align="center">Ciao amico!, I'm Juri for friends 'JB'</h1>
 <h3 align="center">Developer from Italy</h3>
 
-<h4 align="center">cBye and see into code!</h4>
+<h6 align="center">Bye and see into code!</h6>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=juribardella&label=Profile%20views&color=0e75b6&style=flat" alt="juribardella" /> </p> -->
 
