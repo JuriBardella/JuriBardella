@@ -1,6 +1,8 @@
 <h1 align="center">Ciao amico!, I'm Juri for friends 'JB'</h1>
 <h3 align="center">Developer from Italy</h3>
 
+<h4 align="center">cBye and see into code!</h4>
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=juribardella&label=Profile%20views&color=0e75b6&style=flat" alt="juribardella" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juribardella" alt="juribardella" /></a> </p> -->
